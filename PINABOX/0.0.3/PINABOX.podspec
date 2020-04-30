@@ -36,7 +36,7 @@ Pod::Spec.new do |s|
   # s.resources = ['PINABOX/**/*.{xcassets,json,imageset,storyboard,png,ttf}']
   #######
 
-  # s.ios.vendored_frameworks = 'PINABOX.framework'
+  s.ios.vendored_frameworks = 'PINABOX.framework'
    # s.resource_bundles = {
    #   'PINABOX' => ['PINABOX/*.{xcassets,json,imageset,png,ttf}']
    # }
